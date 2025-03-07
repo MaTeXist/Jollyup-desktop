@@ -1,0 +1,50 @@
+{
+  "name": "jollyup-desktop",
+  "version": "1.2.0-beta",
+  "description": "Jollyup 桌面端",
+  "license": "MIT",
+  "author": "Jolly",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "pack": "electron-packager . my-electron-app --platform=win32 --arch=x64 --out=dist --overwrite",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^34.3.0",
+    "electron-builder": "^25.1.8",
+    "electron-packager": "^17.1.2"
+  },
+  "build": {
+    "appId": "com.jolly.jollyup",
+    "productName": "Jollyup",
+    "copyright": "Copyright © 2024—2025 Jolly",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "assets/xy_round.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "language": "2052",
+      "unicode": true,
+      "perMachine": true,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": "always",
+      "createStartMenuShortcut": true,
+      "installerLanguages": [
+        "en_US",
+        "zh_CN"
+      ],
+      "installerIcon": "assets/Jollyup installer.ico",
+      "uninstallerIcon": "assets/Jollyup uninstaller.ico",
+      "uninstallDisplayName": "卸载 Jollyup",
+      "installerHeaderIcon": "assets/Jollyup installer.ico"
+    }
+  }
+}
