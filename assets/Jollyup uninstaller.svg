@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   t="1741047973101"
+   class="icon"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   p-id="5484"
+   width="200"
+   height="200"
+   id="svg3"
+   sodipodi:docname="Jollyup uninstaller.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="Jollyup uninstaller.png"
+   inkscape:export-xdpi="296.96527"
+   inkscape:export-ydpi="296.96527"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.675"
+     inkscape:cx="99.863946"
+     inkscape:cy="100"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     d="M838.656 626.176L733.915429 196.608H252.123429L151.625143 626.176h219.428571a35.328 35.328 0 0 1 35.328 35.328 39.789714 39.789714 0 0 0 39.570286 40.228571h99.547429a40.228571 40.228571 0 0 0 39.570285-40.228571 35.328 35.328 0 0 1 35.328-35.328z m9.728 70.582857H649.874286a110.592 110.592 0 0 1-104.374857 75.556572H446.098286a109.714286 109.714286 0 0 1-104.521143-75.556572H142.409143v206.043429h705.974857V696.832zM761.563429 126.244571A35.328 35.328 0 0 1 795.867429 153.234286l122.148571 500.662857 0.877714 8.338286v276.114285a35.328 35.328 0 0 1-35.328 35.328H106.788571a35.328 35.328 0 0 1-35.328-35.328V662.235429l0.950858-8.045715 117.028571-500.662857a35.328 35.328 0 0 1 34.304-27.282286z m0 0"
+     fill="#2186FB"
+     p-id="5485"
+     id="path1"
+     style="fill:#3451b2;fill-opacity:1" />
+  <path
+     d="M605.022818 257.78899m25.859906 25.859905l0 0q25.859905 25.859905 0 51.71981l-206.879241 206.879241q-25.859905 25.859905-51.719811 0l0 0q-25.859905-25.859905 0-51.71981l206.879241-206.879241q25.859905-25.859905 51.719811 0Z"
+     fill="#2186FB"
+     p-id="5486"
+     id="path2"
+     style="fill:#3451b2;fill-opacity:1" />
+  <path
+     d="M678.10291 516.439761m-25.859905 25.859905l0 0q-25.859905 25.859905-51.71981 0l-206.879241-206.879241q-25.859905-25.859905 0-51.71981l0 0q25.859905-25.859905 51.71981 0l206.879241 206.879241q25.859905 25.859905 0 51.71981Z"
+     fill="#2186FB"
+     p-id="5487"
+     id="path3"
+     style="fill:#3451b2;fill-opacity:1" />
+</svg>

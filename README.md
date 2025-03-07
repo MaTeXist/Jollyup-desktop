@@ -1,2 +1,2 @@
 # Jollyup-desktop
-Jollyup 桌面端
+Jollyup 桌面端。
