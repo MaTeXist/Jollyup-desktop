@@ -9,8 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
-    "pack": "electron-packager . my-electron-app --platform=win32 --arch=x64 --out=dist --overwrite",
-    "dist": "electron-builder"
+    "portable": "electron-packager . Jollyup --platform=win32 --arch=x64 --out=dist --overwrite --icon=assets/xy_round.ico",
+    "win": "electron-builder"
   },
   "devDependencies": {
     "electron": "^34.3.0",
