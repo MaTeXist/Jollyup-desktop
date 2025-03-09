@@ -3,7 +3,10 @@
   "version": "1.2.0-beta",
   "description": "Jollyup 桌面端",
   "license": "MIT",
-  "author": "Jolly",
+  "author": {
+    "name": "Jolly",
+    "email": "jolly_up@yeah.net"
+  },
   "type": "commonjs",
   "main": "main.js",
   "scripts": {
@@ -45,6 +48,15 @@
       "uninstallerIcon": "assets/Jollyup uninstaller.ico",
       "uninstallDisplayName": "卸载 Jollyup",
       "installerHeaderIcon": "assets/Jollyup installer.ico"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb",
+        "snap"
+      ],
+      "category": "Utility",
+      "icon": "assets/xy_round.png"
     }
   }
 }
